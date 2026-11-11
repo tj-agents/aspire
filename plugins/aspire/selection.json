@@ -1,0 +1,26 @@
+{
+  "plugin": "aspire",
+  "dependencies": [],
+  "profiles": {
+    "core": [
+      "debug"
+    ]
+  },
+  "compatibilitySkillAliases": {},
+  "skills": [
+    {
+      "name": "debug",
+      "kind": "utility",
+      "profile": "core",
+      "applicability": [
+        "Aspire"
+      ],
+      "requires": [
+        "Aspire CLI or Aspire MCP tools"
+      ],
+      "provenance": [
+        "house"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "plugin": "tj-agents/aspire",
+  "source_roots": [
+    ".agents/aspire"
+  ],
+  "requires": {
+    "marketplaces": [
+      {
+        "id": "tj-agents",
+        "repository": "tj-agents/marketplace"
+      }
+    ],
+    "plugins": [
+      "tj-agents/aspire",
+      "tj-agents/base"
+    ],
+    "hooks": [],
+    "permissions": {
+      "claude_allow": [],
+      "codex_prefix_rules": []
+    }
+  }
+}

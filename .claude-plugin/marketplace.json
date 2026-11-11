@@ -1,0 +1,20 @@
+{
+  "name": "tj-agents",
+  "description": "Aspire runtime inspection and debugging standards for coding agents.",
+  "owner": {
+    "name": "ThomasSeery"
+  },
+  "plugins": [
+    {
+      "name": "aspire",
+      "source": "./plugins/aspire",
+      "description": "Aspire runtime inspection and debugging standards for coding agents.",
+      "category": "Productivity",
+      "keywords": [
+        "aspire",
+        "debugging",
+        "observability"
+      ]
+    }
+  ]
+}

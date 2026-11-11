@@ -1,0 +1,11 @@
+{
+  "name": "aspire",
+  "displayName": "Aspire",
+  "description": "Aspire runtime inspection and debugging standards for coding agents.",
+  "author": {
+    "name": "ThomasSeery"
+  },
+  "repository": "https://github.com/tj-agents/aspire",
+  "skills": "./skills/",
+  "keywords": ["aspire", "debugging", "observability"]
+}

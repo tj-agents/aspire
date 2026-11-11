@@ -1,0 +1,19 @@
+{
+  "name": "aspire",
+  "description": "Aspire runtime inspection and debugging standards for coding agents.",
+  "author": {
+    "name": "ThomasSeery"
+  },
+  "repository": "https://github.com/tj-agents/aspire",
+  "skills": "./skills/",
+  "keywords": ["aspire", "debugging", "observability"],
+  "interface": {
+    "displayName": "Aspire",
+    "shortDescription": "Aspire runtime inspection and debugging standards for coding agents.",
+    "longDescription": "Aspire runtime inspection and debugging standards for coding agents. Follow the Template main branch and run template:update to refresh vendored files.",
+    "developerName": "ThomasSeery",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Show me what aspire can do."
+  }
+}
